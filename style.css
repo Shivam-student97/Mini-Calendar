@@ -4,13 +4,13 @@ body {
   justify-content: center;
   height: 100vh;
   align-items: center;
-  font-family: cursive;
-  background-color: slateblue;
+  font-family: bold;
+  background-color: wheat;
 }
 
 .calendar-container {
   background-color: white;
-  width: 300px;
+  width: 350px;
   text-align: center;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
@@ -32,14 +32,15 @@ body {
 }
 
 .day-number {
-  font-size: 80px;
+  font-size: 85px;
   margin: 0;
   font-weight: bold;
 }
 
 .year {
   margin: 20px 0;
-  font-size: 20px;
+  font-size: 25px;
   color: darkgray;
-  font-weight: 500;
+  font-weight: 600;
+
 }
